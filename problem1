@@ -1,0 +1,6 @@
+public class Store { (2pts)
+  private Department [10] entries;
+}
+public class Department {
+  private Store my_store_bldg;
+}
